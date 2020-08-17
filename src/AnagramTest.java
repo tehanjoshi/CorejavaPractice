@@ -14,7 +14,8 @@ public class AnagramTest
 		testList.add("coed");
 		testList.add("anagram");
 		testList.add("gramana");
-		testList.add("gramanas");		
+		testList.add("gramanas");	
+		testList.add("ozde");
 		System.out.println(funWithAnagrams(testList));			
 	}
 		
